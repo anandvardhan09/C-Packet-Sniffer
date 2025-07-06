@@ -1,5 +1,5 @@
 # C-Packet-Sniffer
-This is for begginers in C++ to learn how to use sockets. This (just like the python sniffer) will not capture any passwords (it's still cool though). This saves a significate ammount of data to a log file in the same directory the code is run(log.txt). 
+A lightweight and efficient TCP/UDP packet sniffer written in C using raw sockets. This tool allows users to capture and analyze network traffic at the Ethernet, IP, TCP, and UDP layers.
 
 # Compiling
 To compile simply run this command on your Linux system:
